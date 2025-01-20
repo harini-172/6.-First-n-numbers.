@@ -1,0 +1,1 @@
+# 6.-First-n-numbers.
